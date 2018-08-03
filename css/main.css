@@ -4,11 +4,21 @@
     border: 2px solid black;
     display: block;
     text-align: left;
-    position: relative;
+    display: inline-block;
     margin: 2%;
 }
 
 #elements img {
     max-width: 250px;
     padding: 4px;
+}
+
+.name{
+    text-align: center;
+    background-color: antiquewhite;
+}
+
+.margin{
+    margin: 20px;
+    text-align: center;
 }
